@@ -1,6 +1,6 @@
 import math
 
-def calculate_square_pyramid_properties(h:int, a: int) -> tuple:
+def calculate_square_pyramid_properties(h: int, a: float) -> tuple:
     """
     Calculate the volume, Lateral Surface Area (LSA), Total Surface Area (TSA), and slant height of a square pyramid.
 
